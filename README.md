@@ -23,7 +23,7 @@ El diseño consta de 4 tablas interconectadas:
 
 ## 📝 Instrucciones de Uso
 1. Clonar este repositorio.
-2. Ejecutar el script `script_clinica.sql` en su instancia de PostgreSQL (vía pgAdmin o psql).
+2. Ejecutar el script `clinica_veterinaria.sql` en su instancia de PostgreSQL (vía pgAdmin o psql).
 3. Las consultas de prueba se encuentran al final del archivo SQL para validación inmediata.
 
 ---
